@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Working With Commands"
+git commit -m "#CISFUN"
 git push origin master
