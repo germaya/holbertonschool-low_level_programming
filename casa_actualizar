@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "#CISFUN"
+git push https://github.com/germaya/holbertonschool-low_level_programming
