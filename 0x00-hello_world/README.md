@@ -1,7 +1,7 @@
 ###CISFUN
 ####0x00. C - Hello, World
 
-* gcc
+* gcc compilador
 * printf (3)
 * puts
 * putchar
