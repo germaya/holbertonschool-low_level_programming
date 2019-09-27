@@ -2,7 +2,6 @@
 /**
  * print_numbers - check the code for Holberton School students.
  *
- * @n: is an integer param
  * Return: Always 0.
  */
 
