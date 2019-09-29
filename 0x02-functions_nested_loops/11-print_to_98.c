@@ -2,13 +2,15 @@
 
 /**
  * print_to_98 - print all numbers from n o 98.
- * @n: Integers to add
- * Return: integers
+ * @n: int variable 
+ * Return: Always 0 
  */
 
 void print_to_98(int n)
 {
 	int i;
+
+	i = n;
 
 	if (n <= 98)
 	{
