@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * print_diagona - print diagonal line.
+ * print_diagonal - print diagonal line.
  * @n: int parameter size.
  * Return: none.
  */
@@ -9,7 +9,7 @@
 void print_diagonal(int n)
 {
 	int i, space, end;
-	
+
 	if (n <= 0)
 	{
 		_putchar('\n');
