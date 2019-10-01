@@ -2,7 +2,7 @@
 /**
  * reset_to_98 - dereferencing.
  *
- * @*n: is integer param
+ * @n: is integer param
  *
  * Return: Always 0.
  */
