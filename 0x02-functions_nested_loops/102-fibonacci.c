@@ -1,5 +1,6 @@
 #include "holberton.h"
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - the first 100 Fibonacci numbers
@@ -20,5 +21,6 @@ int main(void)
 		a = b;
 		b = f;
 	}
+	printf("\n");
 	return (0);
 }
