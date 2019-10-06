@@ -8,15 +8,15 @@
 
 int main(void)
 {
-	int a = 0;
-	int b = 1;
+	double a = 0;
+	double b = 1;
+	double f;
 	int i;
-	int f;
 
 	for (i = 0; i < 50 ; i++)
 	{
 		f = a + b;
-		printf("%d, ", f);
+		printf("%.f, ", f);
 		a = b;
 		b = f;
 	}
