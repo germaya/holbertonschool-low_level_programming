@@ -8,9 +8,9 @@
 
 int main(void)
 {
-	double a = 0;
-	double b = 1;
-	double f;
+	float a = 0;
+	float b = 1;
+	float f;
 	int i;
 
 	for (i = 0; i <= 50; i++)
