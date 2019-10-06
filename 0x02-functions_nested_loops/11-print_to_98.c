@@ -1,9 +1,10 @@
 #include "holberton.h"
+#include <stdio.h>
 
 /**
  * print_to_98 - print all numbers from n o 98.
- * @n: int variable 
- * Return: Always 0 
+ * @n: int variable
+ * Return: Always 0
  */
 
 void print_to_98(int n)
