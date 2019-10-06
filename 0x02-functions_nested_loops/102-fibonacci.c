@@ -14,13 +14,13 @@ int main(void)
 	double f;
 	int i;
 
-	for (i = 0; i <= 50 ; i++)
+	for (i = 0; i <= 50; i++)
 	{
 		f = a + b;
 		if (i != 50)
 			printf("%.f, ", f);
 		else
-			printf("%.f,\n", f);
+			printf("%.f\n", f);
 		a = b;
 		b = f;
 	}
